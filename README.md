@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2001akhil
-- 👀 I’m interested in cp
+- 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning nodejs and opencv
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
