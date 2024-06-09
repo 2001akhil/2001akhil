@@ -3,7 +3,7 @@
 ## About Me
 - 👀 I’m passionate about **competitive programming**
 - 🌱 Currently diving into **Deep Learning (DL)**, **Cybersecurity**, and **Kernel Development**
-- 📚 Exploring **MERN Stack**, **IoT (Internet of Things)**, **Flutter**, **Data Structures**, and **Object-Oriented Programming (OOP)**
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-a-8277a51a4/)
