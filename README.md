@@ -27,11 +27,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## GitHub Stats
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=2001akhil&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001akhil&layout=compact&theme=radical)
 
 
 
