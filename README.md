@@ -33,9 +33,7 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2001akhil&layout=compact&theme=radical)
 
-## Projects
-- 🔭 [Project Name](https://github.com/2001akhil/projectname) - Short description of the project
-- 🌱 [Another Project](https://github.com/2001akhil/anotherproject) - Short description of the project
+
 
 ## Get In Touch
 Feel free to reach out for collaborations or just a friendly chat about tech!
