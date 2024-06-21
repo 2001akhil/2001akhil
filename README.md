@@ -20,7 +20,7 @@
 - **Kernel Development**
   - **Beginner**: Exploring the fundamentals and learning about kernel architecture and device drivers.
 
-## Frameworks
+## Front-End Frameworks
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Backend Frameworks
