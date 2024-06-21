@@ -13,6 +13,12 @@
 ## Languages
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-008080?style=for-the-badge&logo=c&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-2bbc8a?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-2bbc8a?style=for-the-badge)
 
+## APIs
+- ![RESTful API](https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=swagger&logoColor=white)
+
+## Specialized Areas
+- **Kernel Development**
+
 ## Frameworks
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -31,8 +37,6 @@
 ## AWS Services
 - ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![Amazon EC2 Bare Metal Instances](https://img.shields.io/badge/Amazon%20EC2%20Bare%20Metal%20Instances-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## APIs
-- ![RESTful API](https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## Get In Touch
 Feel free to reach out for collaborations or just a friendly chat about tech!
