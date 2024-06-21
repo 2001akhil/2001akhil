@@ -11,13 +11,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2001akhil)
 
 ## Languages
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-008080?style=for-the-badge&logo=c&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-2bbc8a?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-2bbc8a?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-008080?style=for-the-badge&logo=c&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-2bbc8a?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-2bbc8a?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## APIs
 - ![RESTful API](https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=swagger&logoColor=white)
 
-## Specialized Areas
+## Expertise
 - **Kernel Development**
+  - **Beginner**: Exploring the fundamentals and learning about kernel architecture and device drivers.
+  ![Linux Kernel](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Linux_kernel_map.svg/1200px-Linux_kernel_map.svg.png)
+
 
 ## Frameworks
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
