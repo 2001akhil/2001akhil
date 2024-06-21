@@ -2,8 +2,24 @@
 
 ## About Me
 - 👀 I’m passionate about **competitive programming**
-- 🌱 Currently diving into **Deep Learning (DL)**, **Cybersecurity**, and **Kernel Development**
+- 🌱 Currentl
+- diving into **Deep Learning (DL)**, **Cybersecurity**, and **Kernel Development**
 - 💬 Feel free to ask me about backend development
+
+
+
+
+
+
+In this version:
+
+- I added a section titled "Hello World in Competitive Programming" to showcase a basic code snippet.
+- I included an "Interesting Fact" about your achievements in competitive programming.
+  
+These additions highlight your skills and achievements in a concise and engaging manner. Feel free to adjust the content further to suit your preferences!
+
+
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-a-8277a51a4/)
