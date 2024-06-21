@@ -11,12 +11,6 @@
 
 
 
-In this version:
-
-- I added a section titled "Hello World in Competitive Programming" to showcase a basic code snippet.
-- I included an "Interesting Fact" about your achievements in competitive programming.
-  
-These additions highlight your skills and achievements in a concise and engaging manner. Feel free to adjust the content further to suit your preferences!
 
 
 
