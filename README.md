@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m passionate about **competitive programming**
-- 🌱 Currently diving into **Deep Learning (DL)**, **Cybersecurity**, and **Kernel Development**
+- 🌱 Currently diving into *AI and ML**, **Cybersecurity**, and **Kernel Development**
 - 💬 Feel free to ask me about backend development
 
 
